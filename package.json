@@ -1,0 +1,36 @@
+{
+  "name": "tester",
+  "version": "6.1.0",
+  "description": "gulp tester",
+  "keywords": [
+    "gulp",
+    "tester"
+  ],
+  "homepage": "https://github.com/hmorjan-plusti/gulpTester#readme",
+  "bugs": {
+    "url": "https://github.com/hmorjan-plusti/gulpTester/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmorjan-plusti/gulpTester.git"
+  },
+  "license": "ISC",
+  "author": "hmorjan@plusti.com",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-file-include": "^2.3.0",
+    "gulp-template": "^6.0.0",
+    "gulp-zip": "^6.1.0"
+  },
+  "dependencies": {
+    "gulp-git": "^2.11.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-util": "^3.0.8",
+    "pa-dss-version": "^1.7.2"
+  }
+}
