@@ -1,4 +1,4 @@
 Ext.define("M5.Version", {
-	 "version": "6.2.0",
-	 "build": "ff98f15" 
+	 "version": "6.2.1",
+	 "build": "b4fa2cb" 
 });
